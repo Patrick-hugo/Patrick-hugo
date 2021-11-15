@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patrick-hugo
-- 👀 I’m interested in ... studying JavaScript and React.
-- 🌱 I’m currently learning ... JavaScript  
+- 👀 I’m interested in ... studying Java.
+- 🌱 I’m currently learning ... Java  
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
