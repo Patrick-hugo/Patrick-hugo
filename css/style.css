@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #CBC9C9;
+}
+
+
+.first-header {
+    text-align: center;
+    color: red;
+    background-color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.navbar {
+    background-color: #CBC9C9;
+}
+
+.foto1 {
+
+    padding: 5px;
+}
+.quem-somos {
+
+    background-color: #95BD7C;
+    
+}
+.margin {
+    padding-top: 50px;
+    padding-top: 50px;
+}
+
+.jogos-mais-jogados {
+    background-color: white;
+    background: black;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container {
+    padding-top: 55px;
+}
+
+.parte2 {
+    text-align: center;
+    padding-top: 5px;
+    color: royalblue;
+}
+
+.imagemlol {
+    border-radius: 20%;
+    margin: auto;
+    margin-left: 50%;
+}
+
+.imagemTor {
+    border-radius: 20%;
+    margin: auto;
+    margin-left: 50%
+}
+
+.imagemuno {
+    border-radius: 20%;
+    margin: auto;
+    margin-left: 50%
+}
+
+.foot {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    margin-bottom: 10px;
+    background-color: black;
+}
+
+.store {
+    border-radius: 20%;
+    margin-top:40px;
+    margin-right: 5px;
+    
+}
+
+.escrito {
+
+    border-radius: 20%;
+    margin: auto;
+    margin-right: 5px;
+}
+
+.contatos {
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 20%;
+   
+
+}
+
+.anotacao {
+    background-color: black;
+    color: white;
+}
